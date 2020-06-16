@@ -8,7 +8,7 @@ An application that helps users keep track of their expenses. The app lets users
 
 A graph is also included to show the date and expenses that are inputted by the user.
 
-<img src="https://i.imgur.com/hDoq7z7.png">
+<img src="https://i.imgur.com/X0naqE4.png">
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ A graph is also included to show the date and expenses that are inputted by the 
 ## Application
 
 To view the deployed application on Heroku, visit:
-<a href="#" target="_blank">#</a>
+<a href="https://budget-offline-online-ai.herokuapp.com/" target="_blank">https://budget-offline-online-ai.herokuapp.com/</a>
 
 ## Technologies Used
 
