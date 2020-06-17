@@ -137,8 +137,6 @@ function sendTransaction(isAdding) {
     .catch((err) => {
       // fetch failed, so save in indexed db
       saveRecord(transaction);
-      // How does it know tha this function is in
-      // db.js?
 
       // clear form
       nameEl.value = "";
